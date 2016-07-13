@@ -6,9 +6,9 @@ color:
   saturation: 0.11413712496869266
   rhythmicContrast: 0.05145812104456127
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: The Good Company
